@@ -1,0 +1,11 @@
+image/supermarcket.jpg
+image/empty.jpg
+image/wine.jpg
+image/fish.jpg
+image/pinapple.jpg
+image/apple.jpg
+image/meat.jpg
+image/cheese.jpg
+image/carrot.jpg
+
+
